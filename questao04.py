@@ -58,4 +58,4 @@ def exercicio05():
 
     return string
 
-print(exercicio04())
+print(f"Resultado dos Exercicos: \n{exercicio01()}\n{exercicio02()}\n{exercicio03()}\n{exercicio04()}")
