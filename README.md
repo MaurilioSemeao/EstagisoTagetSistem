@@ -17,3 +17,6 @@ Olá, meu nome é Maurílio. Neste relatório, apresento os resultados do meu te
 
 * **Para o exercício 5, criei um script em Markdown utilizando como base um pseudo-código e deixando-o o mais descritivo possível.**
 
+### Versões
+
+* **Versão do Python:** Para os testes foi ultilizado a versao 3.9.13 do python
